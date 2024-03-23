@@ -1,0 +1,23 @@
+.container {
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+    gap: 16px;
+    align-items: center;
+    justify-content: space-around;
+    padding: 15px 5px;
+}
+
+.cctv_footage {
+    display: block;
+    height: 280px;
+    width: 100%;
+    border-radius: 1rem;
+}
+
+.play_music {
+    display: block;
+    height: 280px;
+    width: 100%;
+    border-radius: 1rem;    
+}
+
