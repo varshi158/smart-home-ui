@@ -1,4 +1,4 @@
-# Smart Home User Interface
+# Smart Home UI - Frontend
 
 ## Overview
 This project revolves around the creation of a smart home user interface using the MERN stack (MongoDB, Express.js, React, Node.js). 
