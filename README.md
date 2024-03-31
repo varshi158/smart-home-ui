@@ -4,11 +4,12 @@
 This project revolves around the creation of a smart home user interface using the MERN stack (MongoDB, Express.js, React, Node.js). 
 
 ## Key Technologies
-- **Backend**: Node.js and MongoDB were employed to handle server-side logic and database management, ensuring seamless data retrieval and manipulation.
 - **Frontend**: React was utilized extensively, incorporating advanced concepts such as components, state re-rendering, effects, routing, and authentication
+- **Backend**: Node.js and MongoDB were employed to handle server-side logic and database management, ensuring seamless data retrieval and manipulation.
+
   
 ## Project Value
-The project facilitated a deeper understanding of front-end development principles and the practical application of cutting-edge technologies like React and Firebase.
+The project facilitated a deeper understanding of front-end development principles and the practical application of cutting-edge technologies like React and Clerk.
 
 ## Project Highlights
 - **Dynamic Interface**: Leveraged React components to create a dynamic and responsive user interface, providing an optimal user experience across devices.
